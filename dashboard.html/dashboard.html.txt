@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dashboard - Sistema Escolar</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="dashboard">
+        <div class="sidebar">
+            <h2>Menu</h2>
+            <div id="menu-items">
+                <!-- Menu items will be loaded dynamically -->
+            </div>
+        </div>
+        <div class="main-content">
+            <h1>Bem-vindo ao Sistema Escolar</h1>
+            <div id="content-area">
+                <!-- Content will be loaded here -->
+            </div>
+        </div>
+    </div>
+    <script src="js/dashboard.js"></script>
+</body>
+</html>
